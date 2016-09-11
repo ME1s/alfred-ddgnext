@@ -1,6 +1,6 @@
 # alfred-ddgnext
 
-This is a workflow for the Alfred, an application launcher for Mac OSX.
+This is a fork of [lorenzschmid] (https://github.com/lorenzschmid/alfred-ddgnext) workflow for the Alfred, an application launcher for Mac OSX.
 Using this workflow, query the DuckDuckGo search engine and get its auto suggestions showing right in your Alfred launcher window.
 
 To start, open Alfred and type as key word "d" (for "DuckDuckGo"). You can then enter your query while the dropdown menu shows constantly auto suggestion as given by DuckDuckGo. Press Enter to search with the chosen query in the browser.
